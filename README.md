@@ -18,5 +18,12 @@ Sequences makes it possible for a speaker to explain the main idea about the vol
 
 ---
 
+### Working on project
+
+| Member        | Task                                        | University repo                                          |
+|---------------|---------------------------------------------|----------------------------------------------------------|
+| Artemii Popov | Timeline (working with events and sequence) | https://github.com/cymdaspec/misis2023f-22-01-popov-a-yu |
+| Nikita Kablov | Rendering and working with 3D               | https://github.com/Sh1kar1/misis2023f-22-01-kablov-n-a   |
+
 
 
