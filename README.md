@@ -14,7 +14,7 @@ Sequences makes it possible for a speaker to explain the main idea about the vol
 
 ### Used libraries
 
-[Choreograph](https://github.com/sansumbrella/Choreograph) - timeline realization 
+- [Choreograph](https://github.com/sansumbrella/Choreograph) - timeline realization 
 
 ---
 
