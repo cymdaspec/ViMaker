@@ -1,29 +1,23 @@
 # "ViMaker"
 
-A tool that allows you to create sequences of events related to displaying a 3D object.
+Инструмент, позволяющий создавать последовательности событий, связанных с отображением 3D объекта.
 
 ---
 
-### Overview
+### Описание
 
-
-This project aims to help presenters sharing the **volumetric data** to the audience. Main functionality of ViMaker consists of making a sequence of various events, such as *zooming*, *camera movement* and *angle*. 
-Sequences makes it possible for a speaker to explain the main idea about the volumetric object as the audience can get a right focus on it. We look forward to creating a video export system in the future. 
-
----
-
-### Used libraries
-
-- [Choreograph](https://github.com/sansumbrella/Choreograph) - timeline realization 
+Этот проект призван помочь сделать показ 3D объектов (**volumetric data**) более удобным для выступающего и более наглядным для зрителей. Основной функционал ViMaker заключается в возможности создания *последовательностей*, состоящих из различных *событий*.
+Под *событиями* подразумевается моментальное либо длительное изменение параметров, связанных с отображением объекта, таких как *зум*, *положение камеры*, *угол камеры*. Мы стремимся к реализации 
+конвертации последовательностей в видео для наиболее наглядной презентации 3D объектов.
 
 ---
 
-### Working on project
+### Задачи и участники
 
-| Member        | Task                                                | University repo                                          |
-|---------------|-----------------------------------------------------|----------------------------------------------------------|
-| Artemii Popov | Timeline (working with events and sequence)         | https://github.com/cymdaspec/misis2023f-22-01-popov-a-yu |
-| Nikita Kablov | Rendering (working with 3D objects and projections) | https://github.com/Sh1kar1/misis2023f-22-01-kablov-n-a   |
+| Участник      | Задача                                                                     | Личное хранилище                                         |
+|---------------|----------------------------------------------------------------------------|----------------------------------------------------------|
+| Попов Артемий | Реализация таймлайна (работа с событиями и последовательностями)           | https://github.com/cymdaspec/misis2023f-22-01-popov-a-yu |
+| Каблов Никита | Рендеринг с учётом изменения параметров отображения, импорт объёмных данных| https://github.com/Sh1kar1/misis2023f-22-01-kablov-n-a   |
 
 
 
